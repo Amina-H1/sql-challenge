@@ -1,11 +1,11 @@
 # sql-challenge
 SQL Homework
 
-## Data Modeling
-The CSVs werre inspected and an ERD of the tables was sketched out using http://www.quickdatabasediagrams.com.
+# Data Modeling
+The CSVs were inspected and an ERD of the tables was sketched out using http://www.quickdatabasediagrams.com.
 
 
-## Data Engineering
+# Data Engineering
 
 
 Used the information I had to create a table schema for each of the six CSV files. The data types, primary keys, foreign keys, and other constraints were specified.
@@ -13,7 +13,7 @@ Used the information I had to create a table schema for each of the six CSV file
 Then imported each CSV file into the corresponding SQL table.
 
 
-## Data Analysis
+# Data Analysis
 The following list of instructions were followed once I had a complete database: 
 
 1 - List the following details of each employee: employee number, last name, first name, sex, and salary.
